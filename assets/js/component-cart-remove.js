@@ -1,0 +1,1 @@
+import{Et as e}from"./ceb98ad6beac2761.chunk.js";import{Dv as t}from"./f6ce034d327973fd.chunk.js";var n=n=>e.post(t.REMOVE_FROM_CART,{itemRef:n});export{n as t};

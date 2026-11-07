@@ -1,0 +1,1 @@
+var e=e=>e?.response?.status===403,t=t=>t().catch(n=>{if(!e(n))throw n;return t()});export{t};

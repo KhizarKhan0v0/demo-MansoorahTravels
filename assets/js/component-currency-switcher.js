@@ -1,0 +1,1 @@
+import{Et as e}from"./ceb98ad6beac2761.chunk.js";import{Dv as t}from"./f6ce034d327973fd.chunk.js";var n=n=>e.post(t.SWITCH_CURRENCY,n.currencyUnit.currencyCode),r=n=>e.post(t.SWITCH_CURRENCY,n);export{r as n,n as t};
